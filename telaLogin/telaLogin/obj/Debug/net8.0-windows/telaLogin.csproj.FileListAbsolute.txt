@@ -1,0 +1,16 @@
+C:\Users\Aluno_Manha\Documents\appModa\telaLogin\telaLogin\bin\Debug\net8.0-windows\telaLogin.exe
+C:\Users\Aluno_Manha\Documents\appModa\telaLogin\telaLogin\bin\Debug\net8.0-windows\telaLogin.deps.json
+C:\Users\Aluno_Manha\Documents\appModa\telaLogin\telaLogin\bin\Debug\net8.0-windows\telaLogin.runtimeconfig.json
+C:\Users\Aluno_Manha\Documents\appModa\telaLogin\telaLogin\bin\Debug\net8.0-windows\telaLogin.dll
+C:\Users\Aluno_Manha\Documents\appModa\telaLogin\telaLogin\bin\Debug\net8.0-windows\telaLogin.pdb
+C:\Users\Aluno_Manha\Documents\appModa\telaLogin\telaLogin\obj\Debug\net8.0-windows\telaLogin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno_Manha\Documents\appModa\telaLogin\telaLogin\obj\Debug\net8.0-windows\telaLogin.AssemblyInfoInputs.cache
+C:\Users\Aluno_Manha\Documents\appModa\telaLogin\telaLogin\obj\Debug\net8.0-windows\telaLogin.AssemblyInfo.cs
+C:\Users\Aluno_Manha\Documents\appModa\telaLogin\telaLogin\obj\Debug\net8.0-windows\telaLogin.csproj.CoreCompileInputs.cache
+C:\Users\Aluno_Manha\Documents\appModa\telaLogin\telaLogin\obj\Debug\net8.0-windows\telaLogin.dll
+C:\Users\Aluno_Manha\Documents\appModa\telaLogin\telaLogin\obj\Debug\net8.0-windows\refint\telaLogin.dll
+C:\Users\Aluno_Manha\Documents\appModa\telaLogin\telaLogin\obj\Debug\net8.0-windows\telaLogin.pdb
+C:\Users\Aluno_Manha\Documents\appModa\telaLogin\telaLogin\obj\Debug\net8.0-windows\telaLogin.genruntimeconfig.cache
+C:\Users\Aluno_Manha\Documents\appModa\telaLogin\telaLogin\obj\Debug\net8.0-windows\ref\telaLogin.dll
+C:\Users\Aluno_Manha\Documents\appModa\telaLogin\telaLogin\obj\Debug\net8.0-windows\telaLogin.Login.resources
+C:\Users\Aluno_Manha\Documents\appModa\telaLogin\telaLogin\obj\Debug\net8.0-windows\telaLogin.csproj.GenerateResource.cache

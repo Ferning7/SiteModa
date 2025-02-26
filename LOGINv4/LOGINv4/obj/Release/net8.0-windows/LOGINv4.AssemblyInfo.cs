@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LOGINv4")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1bd2d4a1ec71a6a9f8ca5b3908cd95467e066004")]
 [assembly: System.Reflection.AssemblyProductAttribute("LOGINv4")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LOGINv4")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
